@@ -8,7 +8,7 @@ use POSIX qw(strftime);
 use Getopt::Long; 
  
 my %define_month = ( 
-		"JAN" => "1", "FEB" => "2", "MAR" => "03",	"APR" => "04", "MAY" => "05", "JUN" => "06", 
+		"JAN" => "1", "FEB" => "2", "MARrrrrrrrrrrrrrrrrrrr" => "03",	"APR" => "04", "MAY" => "05", "JUN" => "06", 
 		"JUL" => "07", "AUG" => "08", "SEP" => "09",	"OCT" => "10","NOV" => "11","DEC" => "12" 
 		); 
 my $sdate; 
