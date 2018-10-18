@@ -6,6 +6,7 @@ use Data::Dumper;
 use POSIX qw(strftime); 
 use Getopt::Long; 
  
+#these are the copies from brandify
 my $sdate; 
 my $edate; 
 my ($start_day, $end_day, $start_month, $end_month, $start_year, $end_year); 
